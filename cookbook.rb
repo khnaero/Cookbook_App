@@ -10,6 +10,5 @@ class Recipe
 	end
 end
 
-
 mex_cuisine = Cookbook.new("Mexican Cooking")
 
